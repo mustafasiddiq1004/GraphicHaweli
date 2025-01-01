@@ -178,7 +178,7 @@ swiper-container {
     .carousel {
         position: relative;
         height: fit-content;
-        background-image: url(../images/sm-slider-img.jpg);
+        background-image: url(../images/sm-slider-img.png);
         object-fit: contain;
     }
 
